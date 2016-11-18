@@ -1,8 +1,5 @@
 package decorator;
 
-/**
- * Created by cs.ucu.edu.ua on 11/16/2016.
- */
 public class PaperDecorator extends ItemDecorator {
     public PaperDecorator(Item itm) {
         super(itm);
